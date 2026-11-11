@@ -3,7 +3,7 @@
   <p><strong>Revenue growth · Payment conversion · Customer expansion · Cancellation analysis</strong></p>
 </div>
 
-> **Executive takeaway:** CloudFlow's recorded subscription-order value grew **10.7%** in 2023, driven primarily by Pro. The clearest immediate issue, however, is payment measurement: only **78 of 403** widget-opened subscriptions have a logged *Complete* event, while the source records contain significant status inconsistencies. I would resolve those inconsistencies before calling the gap lost revenue..
+> **Executive takeaway:** CloudFlow's recorded subscription-order value grew **10.7%** in 2023, driven primarily by Pro. The clearest immediate issue, however, is payment measurement: only **78 of 403** widget-opened subscriptions have a logged *Complete* event, while the source records contain significant status inconsistencies. I would resolve those inconsistencies before calling the gap lost revenue.
 
 **Explore the work:** [Executive presentation](docs/executive_brief.pdf) · [SQL analysis](sql/README.md) · [Supporting figures](docs/analysis_results.md)
 
