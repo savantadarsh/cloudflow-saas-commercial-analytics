@@ -1,0 +1,7 @@
+# Source and cleaned data
+
+`raw/` contains nine publication-safe copies of the provided source CSVs. For public distribution, customer organisation names, user names and email addresses have been replaced by deterministic pseudonyms (`@example.com` emails). Business IDs, relationships, event values, dates and monetary fields are unchanged. See [`docs/data_publication.md`](../docs/data_publication.md). `cleaned/` contains pre-prepared import tables with lower-case column labels and dates normalised to ISO representation. The raw-shape, public-safe files are retained in `raw/`. The prepared tables preserve the records and relationships; no inferred values were inserted.
+
+The data has no independently verified source, licence, currency code or reliable billing cadence. The project treats financial amounts as **GBP (£)** for presentation without changing any underlying monetary values or claiming a confirmed currency code. This is an independent portfolio case study using a fictional company context, not a client engagement. Names and emails are pseudonymised for publishing and not used in the public-facing findings.
+
+Some questionable source records remain intentionally visible in `outputs/tables/data_quality_checks.csv`. The published findings distinguish observed order value from subscription MRR, modelled opportunity from actual value, and a payment *stage reached* from a payment *successfully completed*.

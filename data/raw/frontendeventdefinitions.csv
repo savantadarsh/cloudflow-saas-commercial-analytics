@@ -1,0 +1,7 @@
+EVENTID ,DESCRIPTION                      ,EVENTTYPE        
+1, Viewed Help Center Page          , Customer Support 
+2, Clicked on Help Center FAQs      , Customer Support 
+3, Clicked Contact Customer Support , Customer Support 
+4, Submitted Help Ticket            , Customer Support 
+5, Clicked link inside Email        , Marketing        
+6, Clicked CTA on Landing page      , Marketing        

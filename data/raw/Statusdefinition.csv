@@ -1,0 +1,7 @@
+STATUSID,DESCRIPTION
+0, Error               
+1, PaymentWidgetOpened 
+2, PaymentEntered      
+3, PaymentSubmitted    
+4, PaymentSuccess      
+5, Complete            

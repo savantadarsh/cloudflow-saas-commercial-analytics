@@ -1,0 +1,15 @@
+check,count
+subscription_primary_key_duplicates,0
+duplicate_customer_dimension_keys,2
+payment_movement_primary_key_duplicates,0
+missing_subscription_customer_fk,0
+missing_subscription_product_fk,0
+missing_payment_subscription_fk,0
+missing_frontend_user_fk,0
+latest_payment_status_disagrees_with_currentstatus,119
+cancellation_before_subscription_order,2
+cancellation_after_expiration,2
+inactive_subscription_without_cancellation_record,59
+payment_journeys_containing_error_event,583
+frontend_users_observed,59
+total_user_records,596

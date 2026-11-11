@@ -1,0 +1,6 @@
+statusid,stage,unique_subscriptions,conversion_from_previous_pct,conversion_from_open_pct
+1,Widget opened,403,,100.0000
+2,Payment entered,316,78.4119,78.4119
+3,Payment submitted,238,75.3165,59.0571
+4,Payment success,150,63.0252,37.2208
+5,Complete,78,52.0000,19.3548
