@@ -29,7 +29,7 @@ Cancellation reasons provide a fourth perspective on the retention questions tho
 
 # North Star Metrics
 
-CloudFlow's headline commercial measure in these records is **recorded subscription-order value**. It is a practical proxy for comparing the two order years—not a confirmed SaaS north-star metric such as net revenue retention (NRR) or annual recurring revenue (ARR). The available data does not support those stronger definitions.
+CloudFlow's headline commercial measure in these records is **recorded subscription-order value**. It is a practical proxy for comparing the two order years.
 
 | Commercial lens | Key metric | Observed result | Decision it informs |
 |---|---|---|---|
