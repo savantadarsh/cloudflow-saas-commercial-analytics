@@ -13,13 +13,13 @@
 
 ## Business context
 
-**CloudFlow** is a fictional B2B software-as-a-service (SaaS) company used for this independent portfolio analysis. Its three subscription products are: **Basic, Pro and Premium**. Its commercial teams need to understand which products are contributing to growth, how customers progress through payment, and where there may be opportunities to grow or retain existing accounts.
+**CloudFlow** is a B2B software-as-a-service (SaaS) company used for this portfolio analysis. Its three subscription products are: **Basic, Pro and Premium**. Its commercial teams need to understand which products are contributing to growth, how customers progress through payment, and where there may be opportunities to grow or retain existing accounts.
 
 The provided dataset contains subscription orders from **2022–2023**, payment-state events from **2024**, cancellation records spanning **2022–2024**, and supporting customer, user and product tables. These datasets support a useful performance review, but they do **not** provide complete recurring invoices, confirmed payment settlements or an account-level revenue history.
 
 ## Stakeholder brief
 
-The case study is framed as an analysis for the **VP of Product**, **Revenue Operations** and **Customer Success** teams. The aim is to support three decisions:
+The case study is framed as an analysis for the **Product**, **Revenue Operations** and **Customer Success** teams. The aim is to support three decisions:
 
 1. **Revenue mix:** Which subscription tier deserves closer investigation as a growth contributor?
 2. **Checkout reliability:** Where should Product and Revenue Operations improve payment monitoring before making conversion claims?
