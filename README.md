@@ -1,7 +1,6 @@
 <div align="center">
   <h1>CloudFlow | SaaS Commercial Performance Review</h1>
   <p><strong>Revenue growth · Payment conversion · Customer expansion · Cancellation analysis</strong></p>
-  <p><em>Advanced SQL · MySQL 8 · Commercial & Product Analytics · GBP reporting</em></p>
 </div>
 
 > **Executive takeaway:** CloudFlow's recorded subscription-order value grew **10.7%** in 2023, driven primarily by Pro. The clearest immediate issue, however, is payment measurement: only **78 of 403** widget-opened subscriptions have a logged *Complete* event, while the source records contain significant status inconsistencies. I would resolve those inconsistencies before calling the gap lost revenue.
